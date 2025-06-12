@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
-- 📝 I regularly write articles on [Full Stack Development & Data Sciencw](Full Stack Development & Data Sciencw)
+- 📝 I regularly write articles on [Full Stack Development & Data Science](Full Stack Development & Data Science)
 
 - 💬 Ask me about **React, Javascript, Python etc**
 
